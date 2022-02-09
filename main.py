@@ -22,7 +22,7 @@ triangle_image.anchor_y = triangle_image.width//2
 
 mouseX = 0
 mouseY = 0
-
+# test comment
 
 class Arrow():
     def __init__(self, x, y, batch, maxSpeed, maxForce, viewDistance):
